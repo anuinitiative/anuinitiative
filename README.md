@@ -32,24 +32,6 @@
 <h2>Website</h2>
 <p>Visit us at <a href="https://anuinitiative.org" target="_blank">anuinitiative.org</a> for more information.</p>
 
-<h2>Installation</h2>
-<p>To get started with Anu Initiative's resources, follow these steps:</p>
-<pre>
-1. Clone the repository: <code>git clone https://github.com/anuinitiative/your-repository.git</code>
-2. Navigate to the project directory: <code>cd your-repository</code>
-3. Follow the documentation for setup and installation details.</p>
-</pre>
-
-<h2>Contributing</h2>
-<p>We welcome contributions from everyone in the community. Whether you want to report a bug, improve the documentation, or submit a new feature, follow these steps:</p>
-<pre>
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix: <code>git checkout -b feature-branch-name</code>
-3. Make your changes and commit them: <code>git commit -m 'Describe your changes'</code>
-4. Push your branch: <code>git push origin feature-branch-name</code>
-5. Create a pull request on GitHub.
-</pre>
-
 <h2>Support</h2>
 <p>If you have any questions or need help, feel free to reach out via <a href="mailto:hello@anuinitiative.org">hello@anuinitiative.org</a>.</p>
 
